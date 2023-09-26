@@ -1,0 +1,468 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Play&family=Roboto&display=swap');
+
+body{
+    font-family: 'Inter', sans-serif;
+    box-sizing: border-box;
+    font-size: 14px;
+    background-color: rgba(255, 255, 255, 0.208);
+}
+
+ header{
+    background-color: black;
+    height: 60px;
+    width: 105%;
+    position: absolute;
+    left: -10px;
+    top: -10px;
+}
+
+                                                        /* NAV BARRR */
+svg{
+    height: 35px;
+    width: 35px;
+}
+
+nav{
+    width: 100%;
+    padding-top:12px;
+    color: rgb(160, 167, 175);
+    display: flex;
+    flex-direction: row;
+    justify-content:center ;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-left: 10px;
+
+}
+
+img{
+    padding-top: 5px;
+}
+
+#lg{
+    position: relative;
+    top: -1px;
+    right: 230px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    border-color:rgb(163, 168, 177);
+    border-width:thin;
+    width: 65px;
+    height: 27px;
+    font-size: 14px;
+}
+
+#si{
+    position:relative;
+    top: -2px;
+    right: 225px;
+    background-color:rgb(0, 159, 129);
+    color: white;
+    border-radius: 5px;
+    border-color: white;
+    border:none;
+    width: 75px;
+    height: 28px;
+    font-size: 14px;
+}
+
+.logoo{
+    padding-top: 10px;
+    position: relative;
+    left: 190px;
+    top: -6px;
+} 
+
+ #f{
+    position: relative;
+    left: 155px;
+}
+
+#p{
+    position: relative;
+    left: 110px;
+    
+}
+
+#r{
+    position: relative; 
+    left: 60px;
+
+}
+
+#c{
+    position: relative;
+    left: -10px;
+}
+
+#a{
+    position: relative;
+    left: -90px;
+}
+
+#e{
+    position: relative;
+    left: -250px;
+}
+svg{
+    margin-left: -70px;
+    margin-top: 15px;
+    height: 15px;
+    position: relative;
+    left: 50px;
+    top: -7px;
+    color: white;
+} 
+
+.dd{
+    left: -22px;
+    top: -7px;
+} 
+
+.ddd{
+    position: relative;
+    left: -185px;
+}
+
+.new{
+    width: 25px;
+    position: relative;
+    left: -167px;
+    top: -3px;
+}
+
+.b{
+    position: relative;
+    left: -265px;
+}
+
+.en{
+    position: relative;
+    right: 150px;
+    top: 0px;
+    font-size: 16px;
+}
+
+.bb{
+    position: relative;
+    left: -165px;
+    top: -8px;
+}
+
+                                                                /* NAV BAR ENDDDD */
+
+
+                                                                
+
+
+/* NV2                                                              */
+
+.nv2{
+    background-color: white;
+    width: 100%;
+    height: 66px;
+    text-decoration: none;
+    position: relative;
+    top: -2px;
+    display: flex;
+    flex-direction: row;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.check{
+    position: relative;
+    top: 4px;
+    left: 300px;
+}
+
+.web{
+    position: relative;
+    left: 320px;
+    top: 3px;
+}
+
+.inf{
+    position: relative;
+    left: 340px;
+    top: 3px;
+}
+
+.maid{
+    position: relative;
+    left: 57%;
+    top: 8px;
+    height: 25px;
+    top: 0px;
+    fill: black;
+}
+
+.share{
+    position: relative;
+    left: 58%;
+    width:30px;
+    height: 30px;
+    top: 5px;
+}
+
+
+/* N2 ENDDD */
+
+
+
+/* Body */
+
+/* search start */
+
+
+.bimage{
+    width: 100%;
+    position: relative;
+    top: -8px;
+}
+
+.boody{
+    display: flex;
+    flex-direction: row;
+    padding-bottom: -300px;
+    position: absolute;
+    top: 15px;
+    left: 300px;
+}
+
+.space{
+    position: relative;
+    left: 10px;
+    top: -2px;
+    font-size: 16px;
+    color: rgb(135, 139, 152);
+}
+
+.fof{
+    margin: auto;
+    margin-left: 20px;
+    margin-top: 15px;
+}
+
+.spacee{
+    position: relative;
+    left:13px;
+    top: -2px;
+    font-size: 16px;
+    color: rgb(135, 139, 152);
+}
+
+.pot{
+    margin: auto;
+    margin-left: 27px;
+    top: -1px;
+}
+
+form{
+    margin: auto;
+    width: 20%;
+    
+}
+
+.box{
+    background-color: rgb(255, 255, 255);
+    color: rgb(138, 142, 155);
+    height: 54px;
+    width: 515px;
+    border: solid 1px;
+    font-size: 17px;
+    text-align:initial;
+    text-indent: 20px;
+    border-color: rgb(185, 182, 182);
+    border-radius: 10px;
+    margin: auto;
+    position: relative;
+    top: -355px;
+    left: -415px;
+}
+
+.bn{
+    width: 228px;
+    height: 55px;
+    border-radius: 5px;
+    position: relative;
+    top: -411px;
+    background-color:rgb(255, 100, 45);
+    color:white;
+    font-size: 19px;
+    left: 80px;
+    border: none;
+
+}
+
+.search{
+    margin: auto;
+    position: relative;
+    left: 50px;
+    top: -411px;
+}
+
+/* search ended */
+
+
+.top_websites{
+    background-color: rgb(255, 255, 255);
+    width:1110px;
+    height: 315px;
+    position: relative;
+    top: -370px;
+    left: 290px;
+    border-radius: 13px;
+    border: solid 1px gainsboro;
+    right: 595px;
+    padding:0%;
+    box-shadow: 120px 120px 120px 30px rgb(211, 211, 211,0.347);
+    font-size: 18px;
+
+}
+
+h1{
+    font-size: 45px;
+    position: relative;
+    left: 60px;
+    top: 40px;
+}
+
+.top{
+    position: relative;
+    left: 65px;
+    top: -20px;
+    font-size: 20px;
+}
+
+.topp{
+    position: relative;
+    left: 65px;
+    top: -30px;
+    font-size: 18px;
+}
+
+.tpp{
+    position: relative;
+    left:65px;
+    top: -40px;
+    font-size: 18px;
+}
+
+#orr{
+    color:rgb(255, 100, 45);
+}
+
+.country{
+    width: 340px;
+    height: 55px;
+    position: absolute;
+    top: 220px;
+    left: 60px;
+    text-indent: 20px;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+.category{
+    width: 350px;
+    height: 55px;
+    border-radius: 5px;
+    position: absolute;
+    left: 420px;
+    top: 220px;
+    text-indent: 20px;
+    font-size: 16px;
+}
+
+.ppp{
+    position: relative;
+    top: -10px;
+    font-style: bold;
+    font-weight: large;
+}
+
+.mm{
+    margin-right: 400px;
+
+}
+
+.mmm{
+    margin: auto;
+}
+
+.logo{
+    display: flex;
+    flex-direction: column;
+    width: 20px;
+}
+
+
+table{
+    border-bottom: 1px lightgrey solid;
+    margin: auto;
+    border-collapse: collapse;
+    font-size: 14px;
+  }
+  td{
+    padding-right: 109px;
+    padding-top: 30px;
+    border-bottom: 1px lightgrey solid;
+  }
+  tr{
+    border-bottom: 1px lightgrey solid;
+  }
+  th{
+    border-bottom: 1px black solid;
+    font-size: 20px;
+    text-align: left;
+    font-family: 'Arial', sans-serif;
+   }
+  .logo1{
+  text-align: left;
+  margin-left: -10px;
+  padding: 0;
+  }
+  .Web{
+    text-align: start;
+  }
+  .tabtop{
+    font-size: 50px;
+    margin-left: 264px;
+    margin-top: 155px;
+  }
+  .enve{
+    margin-bottom:  21px;
+    margin-left: 420px;
+  } 
+  .back{
+    height: 50vh;
+    width: 86vw;
+    background-image: url(back.jpg);
+    background-position: center;
+    background-size: 100vw 51vh;
+    background-repeat: no-repeat;
+    padding-right: 0;
+    margin-right: 0;
+  }
+  .face{
+    border: 1px black solid;
+    width: 15px;
+    height: 15px;
+    padding: 5px;
+    border-radius: 10%;
+    margin-left: 10px;
+  }
+  .twitter{
+    border: 1px black solid;
+    width: 15px;
+    height: 15px;
+    padding: 5px;
+    border-radius: 10%;
+    margin-left: 10px;
+  }
